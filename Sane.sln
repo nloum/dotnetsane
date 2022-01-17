@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sane", "Sane.csproj", "{267C97AD-79C2-411D-A3BB-C1B1C434A873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267C97AD-79C2-411D-A3BB-C1B1C434A873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267C97AD-79C2-411D-A3BB-C1B1C434A873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267C97AD-79C2-411D-A3BB-C1B1C434A873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267C97AD-79C2-411D-A3BB-C1B1C434A873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Sane.csproj
+	EndGlobalSection
+EndGlobal

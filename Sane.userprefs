@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core.cs" ctype="Workbench">
+    <Files>
+      <File FileName="Main.cs" Line="36" Column="3" />
+      <File FileName="Option.cs" Line="249" Column="18" />
+      <File FileName="Device.cs" Line="193" Column="40" />
+      <File FileName="Core.cs" Line="114" Column="64" />
+      <File FileName="InvalidStatusException.cs" Line="47" Column="9" />
+      <File FileName="CoreException.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
